@@ -1,0 +1,54 @@
+body {font-family: 'Bangers', cursive;
+    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Gochi Hand', cursive;
+    font-family: 'Permanent Marker', cursive;}
+
+header { font-size: 30px; 
+        margin: 30px 30px;}
+
+main { font-size: 22px;
+        margin-left: 20px;}
+
+.wow {font-size: 26px; 
+    text-decoration: line-through;
+    color: tomato;}
+
+.title { display: inline-block;
+    font-size: 30px;
+    padding-right: 10px;
+    text-decoration:black solid underline;
+    font-weight: 700;
+    text-shadow: 1px 1px 2px #ab1e1e, 0 0 1em #ec1e08, 0 0 0.2em #b40d0d;
+  color: white;
+   transition: 1s ease-in-out;
+    }
+
+.title:active {position: fixed; 
+    transform: rotate(2turn);
+    font-size: 50px;}
+
+.dowoon {color:rgb(66, 66, 69); 
+    font-size: 26px;}
+
+.comeback { font-weight: 700;
+    transition: 1s ease-in-out;}
+
+.comeback:hover { font-size: 30px;
+    color: blue;}
+
+.boom { display: inline-block;
+    font-style: italic;
+    background-color: yellow;
+    transform: rotate(10deg);
+    transition: 1s ease-in-out;}
+
+.boom:hover { background-color: #acff69;
+    font-size: 40px;}
+
+.end { display: inline-block;
+    color: rgba(235, 125, 202, 0.845);
+    text-shadow: 1px 2px 2px rgb(83, 59, 78);
+    transition: 1s ease-out;}
+
+.end:hover {color: white;
+    text-shadow: none;}

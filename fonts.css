@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "BMHANNAAir";
+    font-style: normal;
+    font-weight: 400;
+    src: url('./assets/fonts/BMHANNAAir_otf.otf') format('otf');
+    src: url('./assets/fonts/BMHANNAAir_ttf.ttf') format('truetype');
+
+}

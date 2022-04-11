@@ -1,0 +1,57 @@
+body { font-family: "BMDOHYEON",cursive;
+    text-transform: capitalize;
+    width: 1271px; height: 1086px;
+    display: block;
+    letter-spacing: -0.05em;}
+
+dt { font-size: small; }
+
+body {position: relative;
+    }
+h1 { position: absolute;
+    top: 30px; left: 100px;}
+
+h2 { font-size: 20px;}
+.size { position: absolute;
+        left: 100px; top: 129px;}
+.size-1 {font-size: 12px;
+        line-height: 16px;}
+.size-2 {font-size: 14px;
+        line-height: 20px;}
+.size-3 {font-size: 16px;
+        line-height: 24px;}
+.size-4 {font-size: 18px;
+        line-height: 28px;}
+.size-5 {font-size: 20px;
+        line-height: 32px;}
+.size-6 {font-size: 28px;
+        line-height: 40px;}
+.size-7 {font-size: 34px;
+        line-height: 48px;}
+
+
+.color { position: absolute;
+    right: 300px; top: 129px;
+    line-height: 24px;
+}
+
+.color dl {font-size: 16px;}
+
+.color-1 { color:#000;}
+.color-2 { color:#3C4858;}
+.color-3 { color:#8492A6;}
+.color-4 { color:#C0CCDA;}
+.color-5 { color:#fff; background-color: #000;}
+.color-6 { color:#13CE66;}
+.color-7 { color:#FF5216;}
+.color-8 { color:#009EEB;}
+
+
+.weight { position: absolute;
+    bottom: 340px; left:100px ;}
+
+.weight-1 {font-weight: 300;}
+.weight-2 {font-weight: 400;}
+.weight-3 {font-weight: 500;}
+.weight-4 {font-weight: 700;}
+/* weight 123 굵기가 같은이유는 내가 ttf 파일이 없음 */
